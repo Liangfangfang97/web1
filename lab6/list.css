@@ -1,0 +1,44 @@
+body{
+	font-size: 12px;
+	font-family: Arial;
+	line-height: 2em;
+}
+a{
+	text-decoration: none;
+	color: #727272;
+}
+a:hover{
+	text-decoration: underline;
+}
+.lll a:hover{
+	text-decoration: none;
+	color: #b9f605;
+}
+.white{
+	color: white;
+}
+.yellow{
+	color: #fdb306;
+}
+.a a:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
+.b{
+	font-size: 14px;
+}
+#picture{
+	background-image:url(images/bg.gif); 
+}
+#picture_1{
+	background-image:url(images/foot_bg.gif); 
+}
+#picture_2{
+	background-image:url(images/banner.jpg); 
+}
+.ul{
+	list-style-type: none;
+}
+.ul_1{
+	list-style-image: url(images/jiantou.png);
+}
