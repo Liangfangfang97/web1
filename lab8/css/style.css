@@ -50,14 +50,14 @@ a:hover{
 	bottom: -164px;
 }
 .nav_body{
-	width: 1000px;
+	width: 915px;
 	text-align: center;	
 }
 .nav_content{
 	line-height: 40px;
 	color: #fff;
 	position: relative;
-	right:-5px;
+	left:35px;
 	font-weight: bold;
 }
 .nav_content a:link{

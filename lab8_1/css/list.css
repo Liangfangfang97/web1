@@ -103,7 +103,6 @@ a:hover{
 	border: 1px solid #c9baa5;
 	background-image: url(../images/bg.png);
 	margin-right: 0px;
-	/*margin-left: 0px;*/
 	width: 200px;
 	height: 250px;
 	position: relative;
@@ -177,10 +176,11 @@ a:hover{
 	height: 0px;
 }
 .ul_3{
+	width: 550px;
 	line-height: 31px;
 	font-size: 15px;
 	position: relative;
-	left: 115px;
+	left: 225px;
 	bottom: 535px;
 }
 span{
