@@ -1,0 +1,40 @@
+#wrap{
+	width: 1000px;
+	height: 800px;
+	border: 1px solid black;
+	margin: 0px;
+	padding: 0px;
+}
+#header{
+	width: 1000px;
+	height: 148px;
+	border: 1px solid black;
+}
+#content{
+	width: 1000px;
+	height: 398px;
+	border: 1px solid black;
+}
+.content_left{
+	width: 200px;
+	height: 398px;
+	border: 1px solid black;
+	float: left;
+}
+.content_center{
+	width: 594px;
+	height: 398px;
+	border: 1px solid black;
+	float: left;
+}
+.content_right{
+	width: 200px;
+	height: 398px;
+	border: 1px solid black;
+	float: left;
+}
+#footer{
+	width: 1000px;
+	height: 248px;
+	border: 1px solid black;
+}
