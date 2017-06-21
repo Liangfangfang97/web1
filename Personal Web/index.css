@@ -1,0 +1,176 @@
+*{
+	/*text-align: center;*/
+	font-size: 14px;
+	color: #522a06;
+	padding: 0px;
+	font-family: "宋体"
+}
+body{
+	width: 1222px;
+	margin: 0px;
+	padding: 0px;
+}
+ul,li{
+	list-style-type: none;
+
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
+.wrap{
+	width: 1222px;
+	border: 0px;
+	margin: 2px;
+	padding: 0px;
+}
+.header{
+	width: 1222px;
+	height: 205px;
+	text-align: center;
+	background-image: url(image/book.jpg);
+	background-repeat: no-repeat;
+}
+.banner{
+	width: 1222px;
+	height: 200px;
+	margin: 0 ;	
+}
+.logo{
+	position: absolute;
+	left: 10px;
+	top: 60px;
+}
+.nav{
+	width: 1222px;
+	height: 40px;
+	background-image: url(image/timg.jpg);
+}
+.nav_body{
+	width: 1000px;
+	text-align: center;
+}
+.nav_content{
+	line-height: 40px;
+	color: #fff;
+	height: 38px;
+	position: absolute;
+	left: 150px;
+	top: 204px;
+}
+.nav_search{
+	width: 40px;
+	height: 20;
+	position: absolute;
+	left:870px;
+	top: 213px;
+	float: left;
+}
+.nav_search_1{
+	position: absolute;
+	left: 156px;
+}
+.text{
+	float: left;
+}
+.content{
+	width: 1222px;
+	float: left;	
+}
+.content_left{
+	width: 500px;
+	height: 320px;
+	background-image: url(image/content.jpg);
+	position: absolute;
+	left: 160px;
+	top: 300px;
+	float: left;
+	background-repeat: no-repeat;
+}
+
+.content_right{
+	width: 400px;
+	height: 340px;
+	background-image: url(image/enter.jpg);
+	float: left;
+	position: absolute;
+	left: 675px;
+	top: 255px;
+	text-align: center;
+}
+.word{
+	position: absolute;
+	left: 285px;
+	top: 45px;
+}
+.word_1{
+	position: absolute;
+	left: 260px;
+	top: 65px
+}
+.word_2{
+	position: absolute;
+	left: 260px;
+	top: 85px;
+}
+.word_3{
+	position: absolute;
+	left: 260px;
+	top: 105px;
+}
+.word_4{
+	position: absolute;
+	left: 260px;
+	top: 125px;
+}
+.word_5{
+	position: absolute;
+	left: 260px;
+	top: 145px;
+}
+.word_6{
+	position: absolute;
+	left: 378px;
+	top: 175px;
+}
+.form{
+	text-align: right;
+	position: relative;
+	right: 115px;
+	top: 110px;
+
+}
+.enter{
+	position: relative;
+	top: 90px;
+	font-size: 18px;
+	font-weight: bold;
+}
+.content_center{
+	position: absolute;
+	left: 160px;
+	top: 650px;
+	font-size: 35px;
+	font-weight: bold;
+}
+.content_buttom{
+	border-top:1px solid black;
+	width: 850px;
+	height: 270px;
+	position: absolute;
+	left: 160px;
+	top: 685px;
+}
+.book{
+	margin: 25px;
+}
+.footer{
+	width: 1225px;
+	height: 100px;
+	text-align: center;
+	background-image: url(image/footer.jpg); 
+	position: absolute;	
+	top:950px;      
+}
